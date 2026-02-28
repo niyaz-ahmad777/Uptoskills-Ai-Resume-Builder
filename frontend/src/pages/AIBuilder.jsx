@@ -19,7 +19,7 @@ import {
 } from "lucide-react";
 import NavBar from "../components/NavBar";
 import Footer from "./Footer";
-import AiBuilder from "../assets/AiBuilder.png";
+import AiBuilder from "../assets/AIBuilder.png";
 
 // ✅ Scroll animation hook
 const useInView = (threshold = 0.15) => {
